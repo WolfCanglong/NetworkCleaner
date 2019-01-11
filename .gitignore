@@ -1,0 +1,11 @@
+*.exe
+*.suo
+*~
+~*
+Debug
+Release
+*.sdf
+bin
+obj
+.svn
+.vs
